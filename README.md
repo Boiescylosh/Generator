@@ -9,10 +9,15 @@
 # Script Image
 
 ![preview](https://h.top4top.io/p_3718zu63s0.jpg)
+
 Nah lu pilih no.1 atau no.2 yang mau dibuat tampilannya
+
 ![preview](https://i.top4top.io/p_3718cr3bo1.jpg)
+
 Nah ini untuk versi Cmatrix berupa Teks dan Angka
+
 ![preview](https://j.top4top.io/p_3718jsxbz2.jpg)
+
 Nah ini versi Proses Output untuk tampilannya
 
 # Information 
