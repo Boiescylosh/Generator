@@ -1,10 +1,52 @@
 <?php
-$c1="\x5c\x78\x33\x33\x5b\x31\x3b\x33\x31\x6d";$c2="\x5c\x78\x33\x33\x5b\x31\x3b\x33\x32\x6d";$c3="\x5c\x78\x33\x33\x5b\x31\x3b\x33\x33\x6d";$c4="\x5c\x78\x33\x33\x5b\x31\x3b\x33\x37\x6d";$c5="\x5c\x78\x33\x33\x5b\x31\x3b\x33\x36\x6d";$c6="\x5c\x78\x33\x33\x5b\x30\x6d";function a(){$b=popen('clear 2>&1','r');echo stream_get_contents($b);pclose($b);}function c(){global $c5,$c3,$c6;echo $c5."
+// Encoded by: BOIESCYLOSH
+$p1 = "\x1b[1;31m"; $p2 = "\x1b[1;32m"; $p3 = "\x1b[1;33m";
+$p4 = "\x1b[1;37m"; $p5 = "\x1b[1;36m"; $p6 = "\x1b[0m";
+
+function cls() { system('clear'); }
+function hdr() { global $p5,$p3,$p6; echo $p5."
   e88'Y88     e   e         e Y8b     88P'888'Y88 888 Y8b Y8P 
  d888  'Y    d8b d8b       d8b Y8b    P'  888  'Y 888  Y8b Y  
 C8888       e Y8b Y8b     d888b Y8b       888     888   Y8b   
  Y888  ,d  d8b Y8b Y8b   d888888888b      888     888  e Y8b  
-  \"88,d88 d888b Y8b Y8b d8888888b Y8b     888     888 d8b Y8b ".$c6."
+  \"88,d88 d888b Y8b Y8b d8888888b Y8b     888     888 d8b Y8b ".$p6."
 
-    ".$c3."AUTHOR TOOL | BOIESCYLOSH".$c6."\n\n";}function d($e){global $c3,$c2,$c6;echo "\n".$c3."[*] ".$e.$c6."\n";for($f=0;$f<=20;$f++){$g=str_repeat("\xE2\x96\x88",$f);$h=str_repeat(' ',20-$f);$i=$f*5;printf("\r".$c2."[%s%s] %d%%",$g,$h,$i);usleep(100000);}echo "\n".$c2."[+] Success!".$c6."\n";}function j($k){global $c4,$c3,$c5,$c2,$c1,$c6;echo "\n".$c4."Your File   : ".$c3.$k.$c6."\n";echo $c4."Command     : ".$c5."cp -r ".$k." /storage/emulated/0/".$c6."\n";echo $c4."Information : ".$c2."copy code di atas lalu paste dan enter di terminal, agar codenya di simpan di file anda".$c6."\n";echo "\n".$c1."Press ENTER to back".$c6."\n";fgets(STDIN);echo $c3."[!] Kembali ke Menu...".$c6."\n";sleep(1);}function l(){a();global $c2,$c4,$c1,$c6;echo $c2."[ ".$c4."File yang anda buat harus berupa .php ".$c2."]\n";echo $c1."CTRL o untuk kembali ke Menu\n\n";echo $c4."Your Name : ".$c2;$m=trim(fgets(STDIN));echo $c4."Quotes    : ".$c2;$n=trim(fgets(STDIN));echo $c4."File Name : ".$c2;$o=trim(fgets(STDIN));if(empty($o))return;$p="<?php\n\$m = strtoupper('$m');\n\$n = strtoupper('$n');\n\$q = [\" \$m \", \" \$n \"];\n\$r = \"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789ILOVEYOU\";\n\necho \"\\033[?25l\\033[2J\"; \n\n\$s = 0;\n\$t = microtime(true);\n\nwhile (true) {\n    \$u = (int)exec('tput lines');\n    \$v = (int)exec('tput cols');\n\n    if (microtime(true) - \$t > 0.5) {\n        \$s = (\$s + 1) % count(\$q);\n        \$t = microtime(true);\n    }\n\n    ob_start();\n    echo \"\\033[H\";\n\n    for (\$w = 1; \$w <= \$u; \$w++) {\n        for (\$x = 1; \$x <= \$v; \$x++) {\n            if (rand(0, 10) > 8) {\n                \$y = \$r[rand(0, strlen(\$r)-1)];\n                echo \"\\033[1;31m\" . \$y;\n            } else {\n                echo \" \";\n            }\n        }\n        echo \"\\n\";\n    }\n\n    \$z = \$q[\$s];\n    \$aa = (int)((\$v - strlen(\$z)) / 2);\n    \$ab = (int)(\$u / 2);\n    echo \"\\033[\$ab;\$aa" . "H\\033[1;37m\\033[40m \$z \\033[0m\";\n    \n    ob_end_flush();\n    usleep(50000);\n}\n?>";file_put_contents($o,$p);d("Generating $o...");j($o);}function ac(){a();global $c2,$c4,$c1,$c6;echo $c2."[ ".$c4."File yang anda buat harus berupa .php ".$c2."]\n";echo $c1."CTRL o untuk kembali ke Menu\n\n";echo $c4."First Teks  : ".$c2;$ad=trim(fgets(STDIN));echo $c4."Middle Teks : ".$c2;$ae=trim(fgets(STDIN));echo $c4."Link Web    : ".$c2;$af=trim(fgets(STDIN));echo $c4."File Name   : ".$c2;$ag=trim(fgets(STDIN));if(empty($ag))return;$ah="<?php\necho \"\\033[1;31mTekan CTRL+C untuk berhenti...\\033[0m\\n\";\nwhile (true) {\n    echo \"\\033[1;33m[ \\033[1;37m• \\033[1;33m] \\033[1;32m$ad \\033[1;33m> \\033[1;37m$ae \\033[1;32m// \\033[1;33m[ \\033[1;31mAttack \\033[1;33m] \\033[1;36m$af\\n\";\n    usleep(500000);\n}\n?>";file_put_contents($ag,$ah);d("Building $ag...");j($ag);}while(true){a();c();echo $c3."1.".$c4." Versi Teks\n";echo $c3."2.".$c4." Versi Login\n";echo $c3."3.".$c4." About Tool\n";echo $c3."4.".$c4." Exit\n";echo "\n".$c5."Choose No > ".$c6;$ai=trim(fgets(STDIN));if($ai=="1"){l();}elseif($ai=="2"){ac();}elseif($ai=="3"){a();echo "\n".$c1."[ WARNING !!! ]".$c6."\n";echo $c2."┌".str_repeat("─",65)."┐".$c6."\n";echo $c2."│".$c4." Fungsi tool ini untuk menampilkan code yang anda buat ketika   ".$c2."│".$c6."\n";echo $c2."│".$c4." menghack website, biar tampilannya gak 404 Not Found atau pun  ".$c2."│".$c6."\n";echo $c2."│".$c4." This Website Has Been Hacked                                   ".$c2."│".$c6."\n";echo $c2."└".str_repeat("─",65)."┘".$c6."\n";echo "\n".$c3."PAHAMKAN?".$c6."\n";echo "\nTekan Enter untuk kembali...";fgets(STDIN);}elseif($ai=="4"){echo "\n".$c1."Exiting...".$c6."\n";exit();}}
+    ".$p3."AUTHOR TOOL | BOIESCYLOSH".$p6."\n\n"; }
+function ldd($t) { global $p3,$p2,$p6; echo "\n".$p3."[*] ".$t.$p6."\n";
+  for($i=0;$i<=20;$i++){ $b=str_repeat('=', $i); $s=str_repeat(' ', 20-$i); $c=$i*5;
+    printf("\r".$p2."[%s%s] %d%%", $b, $s, $c); usleep(100000); } echo "\n".$p2."[+] Done!".$p6."\n"; }
+function inf($f) { global $p4,$p3,$p5,$p2,$p1,$p6; echo "\n".$p4."File : ".$p3.$f.$p6;
+  echo "\n".$p4."Save : ".$p5."cp $f /storage/emulated/0/".$p6."\n".$p1."\nEnter to back".$p6;
+  fgets(STDIN); echo $p3."\nBack...".$p6; sleep(1); }
+
+function v1() { cls(); global $p2,$p4,$p1,$p6; echo $p2."[".$p4." .php ".$p2."]\n".$p1."CTRL+o back\n\n";
+  echo $p4."Name : ".$p2; $n=trim(fgets(STDIN)); echo $p4."Quote : ".$p2; $q=trim(fgets(STDIN));
+  echo $p4."File : ".$p2; $f=trim(fgets(STDIN)); if(!$f) return;
+  $c="<?php
+\$n=strtoupper('$n'); \$q=strtoupper('$q'); \$w=[\" \$n \",\" \$q \"]; \$ch=\"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\";
+echo \"\\033[?25l\\033[2J\"; \$wi=0; \$lc=microtime(1);
+while(1){ \$h=(int)exec('tput lines'); \$l=(int)exec('tput cols');
+if(microtime(1)-\$lc>0.5){\$wi=(\$wi+1)%count(\$w); \$lc=microtime(1);}
+ob_start(); echo \"\\033[H\";
+for(\$y=1;\$y<=\$h;\$y++){ for(\$x=1;\$x<=\$l;\$x++){ if(rand(0,10)>8){
+echo \"\\033[1;31m\".\$ch[rand(0,strlen(\$ch)-1)]; }else{ echo \" \"; } } echo \"\\n\"; }
+\$m=\$w[\$wi]; \$sx=(int)((\$l-strlen(\$m))/2); \$sy=(int)(\$h/2);
+echo \"\\033[\$sy;{\$sx}H\\033[1;37m\\033[40m \$m \\033[0m\"; ob_end_flush(); usleep(50000); } ?>";
+  file_put_contents($f, $c); ldd("Generating..."); inf($f); }
+
+function v2() { cls(); global $p2,$p4,$p1,$p6; echo $p2."[".$p4." .php ".$p2."]\n".$p1."CTRL+o back\n\n";
+  echo $p4."Teks 1 : ".$p2; $t1=trim(fgets(STDIN)); echo $p4."Teks 2 : ".$p2; $t2=trim(fgets(STDIN));
+  echo $p4."Link : ".$p2; $lk=trim(fgets(STDIN)); echo $p4."File : ".$p2; $f=trim(fgets(STDIN)); if(!$f) return;
+  $c="<?php
+echo \"\\033[1;31mCTRL+C stop\\033[0m\\n\";
+while(1){ echo \"\\033[1;33m[ \\033[1;37m• \\033[1;33m] \\033[1;32m$t1 \\033[1;33m> \\033[1;37m$t2 \\033[1;32m// \\033[1;33m[ \\033[1;31mAttack \\033[1;33m] \\033[1;36m$lk\\n\"; usleep(500000); } ?>";
+  file_put_contents($f, $c); ldd("Building..."); inf($f); }
+
+while(1){ cls(); hdr(); echo $p3."1.".$p4." Versi Teks\n2.".$p4." Versi Login\n3.".$p4." About\n4.".$p4." Exit\n".$p5."Pilih > ".$p6;
+  $m=trim(fgets(STDIN)); if($m=="1"){ v1(); }elseif($m=="2"){ v2(); }elseif($m=="3"){ cls(); echo $p1."
+  ┌─────────────────────────────────────────────────┐
+  │ ".$p4."Tool untuk bikin tampilan hack biar keren  ".$p1."│
+  │ ".$p4."Biar gak 404 atau tulisan itu2 aja           ".$p1."│
+  └─────────────────────────────────────────────────┘".$p6."
+  ".$p3."\nEnter to back".$p6; fgets(STDIN); }elseif($m=="4"){ echo $p1."\nExit...".$p6; exit(); } }
 ?>
