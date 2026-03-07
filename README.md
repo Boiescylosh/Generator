@@ -1,4 +1,7 @@
-# Installation ( Termux or WSL )
+# Installation 
+- [x] Termux
+- [x] WSL
+
 1. pkg update && pkg upgrade
 2. pkg install php git ncurses-utils -y
 3. git clone https://github.com/Boiescylosh/Generator
