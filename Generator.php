@@ -1,7 +1,8 @@
 <?php
-/* * HAI ANAK AJG, MAU NYOLONG YA?
- * TINGGAL PAKE YA BANGSAT
- * PAHAMKAN?
+/* * [ Pasti Mau Nyolong Code ya AJG ]
+ * Tinggal Pakai AJG
+ * Susah Banget Hidup Lu
+ * PAHAMKAN? 
  */
 
 $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[1;37m";JGM' .
@@ -37,7 +38,7 @@ $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[
 'Q+MC41KXsgXCRpZHg9KFwkaWR4KzEpJWNvdW50KFwkdyk7IFwkdD1taWNyb3RpbWUpO30gb2' .
 'Jfc3RhcnQoKTsgZWNobyBcIlxcMDMzW0hcIjsgZm9yKFwkeT0xO1wkeTw9XCRoO1wkeSsrKX' .
 'sgZm9yKFwkeD0xO1wkeDw9XCRzO1wkeCsrKXsgaWYocmFuZCgwLDEwKT44KSBlY2hvIFwiXF' .
-'wwMzNbMTszMW1cIi5cJGNscmFuZCgwLHN0cmxlbihcJGMpLTEpXTsgZWxzZSBlY2hvIFwiIF' .
+'wwMzNbMTszMW1cIi5cJGNscmFuZCgwLHN0cmxlbihcJGNpLTEpXTsgZWxzZSBlY2hvIFwiIF' .
 'wiOyB9IGVjaG8gXCJcXG5cIjsgfSBcJG09XCR3W1wkaWR4XTsgXCRzeD0oaW50KSgoXCRzLX' .
 'N0cmxlbihcJG0pKS8yKTsgXCRzeT0oaW50KShcJGgvMik7IGVjaG8gXCJcXDAzM1tcJHN5O3' .
 'tcJHN4fUhcXDAzM1sxOzM3bVxcMDMzWzQwbSBcJG0gXFwwMzNbMG1cIjsgb2JfZW5kX2ZsdX' .
@@ -50,10 +51,10 @@ $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[
 'NbMTszN21GaXJzdCBUZWtzICA6IFwwMzNbMTszMm0iOyAkdDEgPSB0cmltKGZnZXRzKFNURE' .
 'lOKSk7IGVjaG8gIlwwMzNbMTszN21NaWRkbGUgVGVrcyA6IFwwMzNbMTszMm0iOyAkdDIgPX' .
 'RyaW0oZ2V0cyhTVERJTikpOyBlY2hvICJcMDMzWzE7MzdtTGluayBXZWIgICAgOiBcMDMzWz' .
-'E7MzJtIjsgJGwgPSB0cmltKGZnZXRzKFNURElOKSk7IGVjaG8gIlwwMzNbMTszN21GaWxlIE' .
-'5hbWUgOiBcMDMzWzE7MzJtIjsgJGYgPSB0cmltKGZnZXRzKFNURElOKSk7IGlmKCEkZikgcm' .
-'V0dXJuOyAkaXNpID0gIjw/cGhwIHdoaWxlKHRydWUpeyBlY2hvIFwiXFxcMDMzWzE7MzNtWy' .
-'BcXFwwMzNbMTszN21cLuilmiBcXFwwMzNbMTszM21dIFxcXDAzM1sxOzMybSR0MSBcXFwwMz' .
+'E7MzJtIjsgJGwgPSB0cmltKGZnZXRzKFNURElOKSk7IGVjaG8gIlwwMzNbMTszN21GaXJzdC' .
+'BUZWtzICA6IFwwMzNbMTszMm0iOyAkdDEgPSB0cmltKGZnZXRzKFNURElOKSk7IGlmKCEkZik' .
+'gcmV0dXJuOyAkaXNpID0gIjw/cGhwIHdoaWxlKHRydWUpeyBlY2hvIFwiXFxcMDMzWzE7MzNt' .
+'WyBcXFwwMzNbMTszN21cLuilmiBcXFwwMzNbMTszM21dIFxcXDAzM1sxOzMybSR0MSBcXFwwMz' .
 'NbMTszM21cPiBcXFwwMzNbMTszN20kdDIgXFxcMDMzWzE7MzJtLy8gXFxcMDMzWzE7MzNtWy' .
 'BcXFwwMzNbMTszMW1BdHRhY2sgXFxcMDMzWzE7MzNtXSBcXFwwMzNbMTszNm0kbFxcbihcIjs' .
 'gdXNsZWVwKDUwMDAwMCk7IH0gPz4iOyBmaWxlX3B1dF9jb250ZW50cygkZiwgYnVuZ2t1c19r' .
@@ -71,7 +72,15 @@ $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[
 'Rlci4uLiI7IGZnZXRzKFNURElOKTsgeyBlbHNlaWYoJGM9PSI0IikgZXhpdCgpOyB9';
 
 $_0x62 = 'base'.(128/2).'_de'.'code';
-$_0x63 = 'ev'.'al';
+$data = $_0x62($_0x61);
 
-$_0x63($_0x62($_0x61));
+$tmp = "." . md5(time()) . ".php";
+file_put_contents($tmp, $data);
+
+if (file_exists($tmp)) {
+    include($tmp);
+    unlink($tmp); 
+} else {
+    die("Fatal Error: Mampus AJG.");
+}
 ?>
