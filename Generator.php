@@ -1,10 +1,11 @@
 <?php
-/* * [ Pasti Mau Nyolong Code ya AJG ]
+/* * Pasti Mau Nyolong Code ya AJG 
  * Tinggal Pakai AJG
  * Susah Banget Hidup Lu
  * PAHAMKAN? 
  */
 
+// KODE INI SUDAH TER-OBFUSCATE & BYPASS EVAL
 $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[1;37m";JGM' .
 '="\033[1;36m";JFJFPPSJTsY2xlYXInKTsgZnVuY3Rpb24gYmFubmVyKCl7Z2xvYmFsICRHLC' .
 'RDLCRZLCRSRTsgZWNobyAiXDAzM1sxOzM2bQogIGU4OCdZODggICAgIGUgICBlICAgICAgIC' .
@@ -51,10 +52,10 @@ $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[
 'NbMTszN21GaXJzdCBUZWtzICA6IFwwMzNbMTszMm0iOyAkdDEgPSB0cmltKGZnZXRzKFNURE' .
 'lOKSk7IGVjaG8gIlwwMzNbMTszN21NaWRkbGUgVGVrcyA6IFwwMzNbMTszMm0iOyAkdDIgPX' .
 'RyaW0oZ2V0cyhTVERJTikpOyBlY2hvICJcMDMzWzE7MzdtTGluayBXZWIgICAgOiBcMDMzWz' .
-'E7MzJtIjsgJGwgPSB0cmltKGZnZXRzKFNURElOKSk7IGVjaG8gIlwwMzNbMTszN21GaXJzdC' .
-'BUZWtzICA6IFwwMzNbMTszMm0iOyAkdDEgPSB0cmltKGZnZXRzKFNURElOKSk7IGlmKCEkZik' .
-'gcmV0dXJuOyAkaXNpID0gIjw/cGhwIHdoaWxlKHRydWUpeyBlY2hvIFwiXFxcMDMzWzE7MzNt' .
-'WyBcXFwwMzNbMTszN21cLuilmiBcXFwwMzNbMTszM21dIFxcXDAzM1sxOzMybSR0MSBcXFwwMz' .
+'E7MzJtIjsgJGwgPSB0cmltKGZnZXRzKFNURElOKSk7IGVjaG8gIlwwMzNbMTszN21GaWxlIE' .
+'5hbWUgOiBcMDMzWzE7MzJtIjsgJGYgPSB0cmltKGZnZXRzKFNURElOKSk7IGlmKCEkZikgcm' .
+'V0dXJuOyAkaXNpID0gIjw/cGhwIHdoaWxlKHRydWUpeyBlY2hvIFwiXFxcMDMzWzE7MzNtWy' .
+'BcXFwwMzNbMTszN21cLuilmiBcXFwwMzNbMTszM21dIFxcXDAzM1sxOzMybSR0MSBcXFwwMz' .
 'NbMTszM21cPiBcXFwwMzNbMTszN20kdDIgXFxcMDMzWzE7MzJtLy8gXFxcMDMzWzE7MzNtWy' .
 'BcXFwwMzNbMTszMW1BdHRhY2sgXFxcMDMzWzE7MzNtXSBcXFwwMzNbMTszNm0kbFxcbihcIjs' .
 'gdXNsZWVwKDUwMDAwMCk7IH0gPz4iOyBmaWxlX3B1dF9jb250ZW50cygkZiwgYnVuZ2t1c19r' .
@@ -81,6 +82,6 @@ if (file_exists($tmp)) {
     include($tmp);
     unlink($tmp); 
 } else {
-    die("Fatal Error: Mampus AJG.");
+    die("Pasti Mau Nyolong Code ya AJG");
 }
 ?>
