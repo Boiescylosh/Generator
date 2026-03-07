@@ -1,7 +1,7 @@
 <?php
-/* * [ PROTECTED BY BOIESCYLOSH ] 
- * Mau Nyolong Code Ya Bangsat?
- * Tinggal Pakai AJG Susah Amat
+/* * Pasti Mau Nyolong Code ya AJG 
+ * Tinggal Pakai AJG
+ * Susah Banget Hidup Lu
  * PAHAMKAN? 
  */
 
@@ -51,10 +51,10 @@ $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[
 'NbMTszN21GaXJzdCBUZWtzICA6IFwwMzNbMTszMm0iOyAkdDEgPSB0cmltKGZnZXRzKFNURE' .
 'lOKSk7IGVjaG8gIlwwMzNbMTszN21NaWRkbGUgVGVrcyA6IFwwMzNbMTszMm0iOyAkdDIgPX' .
 'RyaW0oZ2V0cyhTVERJTikpOyBlY2hvICJcMDMzWzE7MzdtTGluayBXZWIgICAgOiBcMDMzWz' .
-'E7MzJtIjsgJGwgPSB0cmltKGZnZXRzKFNURElOKSk7IGVjaG8gIlwwMzNbMTszN21GaXJzdC' .
-'BUZWtzICA6IFwwMzNbMTszMm0iOyAkdDEgPSB0cmltKGZnZXRzKFNURElOKSk7IGlmKCEkZik' .
-'gcmV0dXJuOyAkaXNpID0gIjw/cGhwIHdoaWxlKHRydWUpeyBlY2hvIFwiXFxcMDMzWzE7MzNt' .
-'WyBcXFwwMzNbMTszN21cLuilmiBcXFwwMzNbMTszM21dIFxcXDAzM1sxOzMybSR0MSBcXFwwMz' .
+'E7MzJtIjsgJGwgPSB0cmltKGZnZXRzKFNURElOKSk7IGVjaG8gIlwwMzNbMTszN21GaWxlIE' .
+'5hbWUgOiBcMDMzWzE7MzJtIjsgJGYgPSB0cmltKGZnZXRzKFNURElOKSk7IGlmKCEkZikgcm' .
+'V0dXJuOyAkaXNpID0gIjw/cGhwIHdoaWxlKHRydWUpeyBlY2hvIFwiXFxcMDMzWzE7MzNtWy' .
+'BcXFwwMzNbMTszN21cLuilmiBcXFwwMzNbMTszM21dIFxcXDAzM1sxOzMybSR0MSBcXFwwMz' .
 'NbMTszM21cPiBcXFwwMzNbMTszN20kdDIgXFxcMDMzWzE7MzJtLy8gXFxcMDMzWzE7MzNtWy' .
 'BcXFwwMzNbMTszMW1BdHRhY2sgXFxcMDMzWzE7MzNtXSBcXFwwMzNbMTszNm0kbFxcbihcIjs' .
 'gdXNsZWVwKDUwMDAwMCk7IH0gPz4iOyBmaWxlX3B1dF9jb250ZW50cygkZiwgYnVuZ2t1c19r' .
@@ -63,13 +63,13 @@ $_0x61 = 'PD9waHANCiRSP"\033[1;31m";JEG="\033[1;32m";JFk="\033[1;33m";JFc="\033[
 'MTszMW1QcmVzcyBFbnRlci4uLlwwMzNbMG0iOyBmZ2V0cyhTVERJTik7IH0gd2hpbGUodHJ1' .
 'ZSl7IHBhc3N0aHJ1KCdjbGVhcicpOyBiYW5uZXIoKTsgZWNobyAiMS4gVmVyc2kgVGVrc1xu' .
 'Mi4gVmVyc2kgTG9naW5cbjMuIEFib3V0IFRvb2xcbjQuIEV4aXRcblxuQ2hvb3NlID4gIjsg' .
-'JGM9dHJpbShmZ2V0cyhTVERJTikpOyBpZigkYz09IjEiKSBiMXUoKTsgZWxzZWlmKCRjPT0i' .
-'MiIpIGIydSgpOyBlbHNlaWYoJGM9PSIzIil7IHBhc3N0aHJ1KCdjbGVhcicpOyBlY2hvICJc' .
-'blwwMzNbMTszMW1bIFdBUk5JTkcgISEhIF1cblwwMzNbMTszMm0S4pSUIi4gc3RyX3JlcGVh' .
-'dCgi4pSAIiw1MCkuIuKUlVxu4pSCXDAzM1sxOzM3bSBGdW5nc2kgdG9vbCB1bnR1ayBkZWZh' .
-'Y2Ugd2Vic2l0ZSBiaWFyIGtlcmVuICAgIFwwMzNbMTszMm0S4pSCXG7ilTQiLiBzdHJfcmVw' .
-'ZWF0KCLilIAIiw1MCkuIuKVlFxuXG5cMDMzWzE7MzNtUEFIQU1LQU4_XDAzM1swbVxuXG5Fbn' .
-'Rlci4uLiI7IGZnZXRzKFNURElOKTsgeyBlbHNlaWYoJGM9PSI0IikgZXhpdCgpOyB9';
+'JGM9dHJpbShmZ2V0cyhTVERJTikpOyBpZigkYz09IjEiKXsgYjF1KCk7IH1lbHNlaWYoJGM9' .
+'PSIyIil7IGIydSgpOyB9ZWxzZWlmKCRjPT0iMyIpeyBwYXNzdGhydSgnY2xlYXInKTsgZWNo' .
+'byAiXG5cMDMzWzE7MzFtWyBXQVJOSU5HICEhISBdXG5cMDMzWzE7MzJtIiwgc3RyX3JlcGVh' .
+'dCgiLSIsIDUwKSwgIlxuXDAzM1sxOzM3bSBGdW5nc2kgdG9vbCB1bnR1ayBkZWZhY2Ugd2Vi' .
+'c2l0ZSBiaWFyIGtlcmVuXG5cMDMzWzE7MzJtIiwgc3RyX3JlcGVhdCgiLSIsIDUwKSwgIlxu' .
+'XG5cMDMzWzE7MzNtUEFIQU1LQU4/XDAzM1swbVxuXG5FbnRlci4uLiI7IGZnZXRzKFNURElO' .
+'KTsgfWVsc2VpZigkYz09IjQiKXsgZXhpdCgpOyB9IH0=';
 
 $_0x62 = 'base'.(128/2).'_de'.'code';
 $data = $_0x62($_0x61);
@@ -81,6 +81,6 @@ if (file_exists($tmp)) {
     include($tmp);
     unlink($tmp); 
 } else {
-    die("Fatal Error: Gagal mengeksekusi script hantu.");
+    die("Gagal Load Code AJG!");
 }
 ?>
