@@ -5,3 +5,15 @@
 4. cd Generator
 5. chmod +x Generator.php
 6. php Generate.php
+
+# Script Image
+
+![preview](https://h.top4top.io/p_3718zu63s0.jpg)
+Nah lu pilih no.1 atau no.2 yang mau dibuat tampilannya
+![preview](https://i.top4top.io/p_3718cr3bo1.jpg)
+Nah ini untuk versi Cmatrix berupa Teks dan Angka
+![preview](https://j.top4top.io/p_3718jsxbz2.jpg)
+Nah ini versi Proses Output untuk tampilannya
+
+# Information 
+dari 2 versi foto tersebut untuk mengubah tampilan Website yang ingin kalian Hack, biar tampilan target gak simple
