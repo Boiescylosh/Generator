@@ -12,13 +12,13 @@
 
 Nah lu pilih no.1 atau no.2 yang mau dibuat tampilannya
 
-![preview](https://i.top4top.io/p_3718cr3bo1.jpg)
+![preview](https://c.top4top.io/p_37180udq90.jpg)
 
-Nah ini untuk versi Cmatrix berupa Teks dan Angka
+Nah ini untuk versi Cmatrix berupa Teks dan Angka, tulisan HACKED bisa berubah-ubah tergantung kata yang lu buat
 
-![preview](https://j.top4top.io/p_3718jsxbz2.jpg)
+![preview](https://d.top4top.io/p_3718k51ug1.jpg)
 
-Nah ini versi Proses Output untuk tampilannya
+Nah ini versi Proses Output untuk tampilannya, dan untuk link itu sebagai contoh, tergantung lu masukin link targetnya
 
 # Information 
 dari 2 versi foto tersebut untuk mengubah tampilan Website yang ingin kalian Hack, biar tampilan target gak simple
