@@ -1,6 +1,5 @@
 # Installation 
 - [x] Termux
-- [x] WSL
 
 1. pkg update && pkg upgrade
 2. pkg install php git ncurses-utils -y
@@ -8,6 +7,15 @@
 4. cd Generator
 5. chmod +x Generator.php
 6. php Generate.php
+
+- [x] WSL
+
+1. sudo apt update && sudo apt upgrade -y
+2. sudo apt install git python3 python3-pip -y
+3. git clone https://github.com/Boiescylosh/Generator
+4. cd Generator
+5. pip3 install requests
+6. python3 Generator.py
 
 # Script Image
 
