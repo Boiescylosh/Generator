@@ -17,8 +17,6 @@
 5. pip3 install requests
 6. python3 Generator.py
 
-# Script Image
-
 ![preview](https://h.top4top.io/p_3718zu63s0.jpg)
 
 Nah lu pilih no.1 atau no.2 yang mau dibuat tampilannya
